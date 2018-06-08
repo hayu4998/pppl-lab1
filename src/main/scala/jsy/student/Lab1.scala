@@ -11,7 +11,7 @@ object Lab1 extends jsy.util.JsyApplication with jsy.lab1.Lab1Like {
    * <Hao Yuan>
    *
    * Partner: <Joel>
-   * Collaborators: <Any Collaborators>
+   * Collaborators: <None>
    */
 
   /*
