@@ -4,6 +4,10 @@ Hao Yuan
 
 ## FeedBack
 
+The lab helped with the me understanding the material well and refresh my memory of operations of Binary tree. The
+problem that has to be point out is that the test case clearly want us to implement (+/- num)/0 and 0/0 to function as
+expect by myself but the code it self take care of it. I hope the problem can be fixed in the future. 
+
 ## 2. Scala Basic: Binding and Scope 
 
 (a) pi at line four is bound by the line 3,
