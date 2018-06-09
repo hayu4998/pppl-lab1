@@ -1,10 +1,10 @@
-#Lab 1 Write up
+# Lab 1 Write up
 
 Hao Yuan
 
-##FeedBack
+## FeedBack
 
-##2. Scala Basic: Binding and Scope 
+## 2. Scala Basic: Binding and Scope 
 
 (a) pi at line four is bound by the line 3,
  because line 3 is the in the scope of line 4.
@@ -21,7 +21,7 @@ The use of line 10 is bound by line 3 as well, which is a
 use site. The use of line x at line 13 is bound by line 1 since
 it is in the scope of line 1.
 
-##3.scala Basics: Type
+## 3.scala Basics: Type
 
 It is well-typed. Since the condition statement include outputs for both
 true and false cases, the body can always have outputs. Since both 
